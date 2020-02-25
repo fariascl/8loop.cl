@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/farias
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://8loop.cl
+  * I am farias (https://keybase.io/farias) on keybase.
+  * I have a public key ASDsFiqNoJIX1ifCNtjJs5Gme8vlOTroLQFIQB79VGOxGQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209cef6979b544cb25018e251cfcfda0178cec92becb419290fb61c1bc321cfef50a",
+      "host": "keybase.io",
+      "kid": "0120ec162a8da09217d627c236d8c9b391a67bcbe5393ae82d0148401efd5463b1190a",
+      "uid": "21b6ef53dde23320715ff84f1d91b919",
+      "username": "farias"
+    },
+    "merkle_root": {
+      "ctime": 1569800712,
+      "hash": "fd0383ddb9cf1c3e19a5097a32a491387473e6693d00735c212e549df5451789dd108829e0991342917d9a5d37724ae5f7383c2b359496219f47de82cc74f14f",
+      "hash_meta": "6eff2547a85342cebc75e51119d0af03bedc0bf9327b8834fb8cd17bcd49a007",
+      "seqno": 7802020
+    },
+    "service": {
+      "entropy": "Uxd+8LzR1AL0VB4hZg1RGsnP",
+      "hostname": "8loop.cl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569800723,
+  "expire_in": 504576000,
+  "prev": "63bc1bee0709be4bf3077fd30ffd82071652d34260ebef8d16a1d891c22ad183",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7BYqjaCSF9YnwjbYybORpnvL5Tk66C0BSEAe/VRjsRkKp3BheWxvYWTESpcCEsQgY7wb7gcJvkvzB3/TD/2CBxZS00Jg6++NFqHYkcIq0YPEIMpp+tXIhevCegGneSKVB5Z/nvkcUTGM1Oozbavd57FqAgHCo3NpZ8RATAfIv3itI6U06bSbRUmiFzxBrxu/ov6TBFDJ7a9oE7BkLgoDcLhnUVl8Rw6RUOXSe4LYBsTn6LNko3ax+Jl5BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIs0/brf/HYl1KxF1FV1xuEBIAzir43Y3YQMfHGgbUE8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/farias
+
+==================================================================
