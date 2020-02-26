@@ -2,7 +2,7 @@ title: Infinite Loop
 email: farias_io@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Hola, soy Alejandro y este es mi blog.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "https://8loop.cl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: farias_io
 github_username:  fariascl
